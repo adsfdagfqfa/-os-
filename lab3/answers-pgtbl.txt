@@ -1,0 +1,5 @@
+ugetpid_test starting
+ugetpid_test: OK
+pgaccess_test starting
+pgaccess_test: OK
+pgtbltest: all tests succeeded
